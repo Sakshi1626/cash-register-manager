@@ -2,7 +2,7 @@
  This is a cash register manager app, where accountent enters billing amoung and this app will tell how much notes/coins should be return to the customer
 
 
-## [LIVE](https:cash-register-manager-sakshi.netlify.app/)
+## [LIVE](https://cash-register-manager-sakshi.netlify.app/)
 
 ---
 
